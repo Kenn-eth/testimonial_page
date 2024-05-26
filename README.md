@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Testimonials grid section
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
@@ -89,3 +90,6 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# testimonials_cards
+>>>>>>> b50d7c855cc56071f0129f6acf53f2bd165ec7c0
